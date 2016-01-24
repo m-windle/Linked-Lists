@@ -1,0 +1,8 @@
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+/Debug
+/cpp_practice2/Debug
